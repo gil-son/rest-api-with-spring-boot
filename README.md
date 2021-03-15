@@ -3,13 +3,17 @@
 ## Uma API REST criada para registrar usuários. Utiliza Java com Framework Spring Boot
 
 ### Pré-requisitos técnicos
-<p>Lógica de programação Orientada Objeto</p>
-<p>Conhecimento de JSON</p>
+<ul>
+  <li>Lógica de programação Orientada Objeto</li>
+  <li>JSON</li>
+</ul>
 
+### Ferramentas
+<ul>
+  <li>Netbeans ou Eclipse</li>
+  <li>Insomnia ou Postman</li>
+</ul>
 
-### Pré-requisitos
-<p>Netbeans ou Eclipse</p>
-<p> Driver MySQL Connector</p>
 
 ### Configurações:
 
