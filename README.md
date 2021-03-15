@@ -8,7 +8,7 @@
   <li>JSON</li>
 </ul>
 
-### Ferramentas
+### Utilitários
 <ul>
   <li>Netbeans ou Eclipse</li>
   <li>Insomnia ou Postman</li>
