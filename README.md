@@ -1,21 +1,21 @@
 # rest-api-with-spring-boot
 
-## Uma API REST criada para registrar usuários. Utiliza Java com Framework Spring Boot
+## A REST API designed to register users. Uses Java with Spring Boot Framework
 
-### Pré-requisitos técnicos
+### Technical prerequisites
 <ul>
-  <li>Lógica de programação Orientada Objeto</li>
-  <li>JSON</li>
+  <li><a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming<a/></li>
+  <li><a href="https://en.wikipedia.org/wiki/JSON">JSON<a/></li>
 </ul>
 
-### Utilitários
+### Utilities
 <ul>
-  <li>Netbeans ou Eclipse</li>
-  <li>Insomnia ou Postman</li>
+  <li>Workspace-Spring-Tool-Suite-4-4.9.0</li>
+  <li><a href="https://insomnia.rest/download">Insomnia<a/> or <a href="https://www.postman.com/">Postman<a/></li>
 </ul>
 
 
-### Configurações:
+### Configuration
 
 <ul>
   <li>Type: Maven</li>
@@ -26,7 +26,7 @@
  </ul>
 
 
-### Dependências:
+### Available
 
 <ul>
   <li>Spring Boot DevTools </li>
