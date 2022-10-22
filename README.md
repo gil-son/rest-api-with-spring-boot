@@ -37,7 +37,7 @@
 </ul>
 
 
-### References
+### Reference
 
 <ul>
   <li>
