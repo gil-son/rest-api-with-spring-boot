@@ -37,4 +37,10 @@
 </ul>
 
 
+### References
 
+<ul>
+  <li>
+     <a href="https://mergulhospring.com.br/mergulho-spring-rest/">AlgaWorks</a>
+  </li>
+</ul>
